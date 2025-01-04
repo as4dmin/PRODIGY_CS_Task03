@@ -1,6 +1,4 @@
 
-
-```markdown
 # Password Complexity Checker
 
 A simple Python script to assess the strength of a password based on multiple criteria. This tool evaluates passwords and provides feedback to improve their strength, helping users create secure and reliable passwords.
